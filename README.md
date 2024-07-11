@@ -16,7 +16,9 @@ After you have made sure to set all paths correctly, you can move on to the next
 
 cd Path/to/Stoneye/sweetdream
 flutter create .  ## (Ask admin for passcode for utils.zip)
+
 flutter pub get
+
 flutter run
 
 ## Useful Information:
